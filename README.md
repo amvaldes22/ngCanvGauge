@@ -8,6 +8,6 @@ https://github.com/Mikhus/canv-gauge
 #Using the AngularJS Directive
 
 ```
-<canvas canv-gauge id="cpu_gauge1"value="{{cpu.system}}" options="{}"></canvas>
+<canvas canv-gauge id="gauge_id" value="{{cpu.system}}" options="{}"></canvas>
 ```
 
