@@ -1,5 +1,5 @@
 # ngCanvGauge (AngularJS directive to support Canv-Gauge
-by Amaury Valdes  (http://avaldes.com)
+by Amaury Valdes  (https://avaldes.com)
 
 AngularJS directive for CanvGauge from Mykhailo Stadnyk
 
